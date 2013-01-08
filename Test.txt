@@ -1,2 +1,4 @@
 New Entry
 Newer Entry
+
+After initial checkin.
